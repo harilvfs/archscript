@@ -9,3 +9,5 @@ git clone https://github.com/aayushx402/LinScript
 chmod +x sddmtheme.sh
 ./sddmtheme.sh
 ```
+
+![screenshot](https://github.com/aayushx402/Linux-Background/blob/main/i3/macchiato.webp)
