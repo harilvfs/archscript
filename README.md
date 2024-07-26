@@ -6,6 +6,6 @@ To setup, execute the following commands:
 ```shell
 sudo pacman -Syy git
 git clone https://github.com/aayushx402/LinScript
-chmod +x setup.sh
-./setup.sh
+chmod +x sddmtheme.sh
+./sddmtheme.sh
 ```
