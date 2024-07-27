@@ -31,7 +31,7 @@ chmod +x sddm_setup.sh
 <pre><code>sudo pacman -Syy git
 git clone https://github.com/aayushx402/LinScript
 cd LinScript
-chmod +x install_fonts.sh
-./install_fonts.sh
+chmod +x fonts_setup.sh
+./fonts_setup.sh
 </code></pre>
 
