@@ -14,8 +14,7 @@ chmod +x linscript
 </code></pre>
 
 <h3>🎨 Install SDDM Theme</h3>
-
-<p>Elevate your login screen with a stunning SDDM theme. Run the following commands:</p>
+<p>Transform your login screen with a beautiful SDDM theme:</p>
 
 <pre><code>sudo pacman -Syy git
 git clone https://github.com/aayushx402/LinScript
