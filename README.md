@@ -10,9 +10,6 @@ chmod +x sddm_setup.sh
 ./sddm_setup.sh
 ```
 
-![screenshot](https://github.com/aayushx402/Linux-Background/blob/main/i3/macchiato.webp)
-
-
 To setup font script, execute the following commands:
 
 ```shell
