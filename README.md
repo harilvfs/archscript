@@ -1,6 +1,20 @@
-<h2>🌟 LinScript</h2>
+## 🌟 LinScript
+
+<p align="center">
+  <a href="https://github.com/aayushx402/LinScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Check%20Out%20LinScript-Repo-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="LinScript">
+  </a>
+  <a href="https://github.com/aayushx402/LinScript/releases/tag/0.2.0" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Version-0.2-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Version">
+</p>
 
 <p>Welcome to <strong>LinScript</strong> – your ultimate solution for a sleek and personalized Linux setup! With this script, you can effortlessly customize your themes, manage dotfiles, and enhance your desktop environment.</p>
+
+<h3>🚀 What’s New in Linux Project v0.2?</h3>
+<ul>
+    <li><strong>Enhanced Customization:</strong> Effortlessly personalize your themes and dotfiles with an improved setup process.</li>
+    <li><strong>Streamlined Installation:</strong> Simplified commands for quick and easy installation of SDDM themes and fonts.</li>
+</ul>
 
 <h3>🚀 Quick Setup</h3>
 
