@@ -27,6 +27,14 @@ chmod +x linscript
 ./linscript
 </code></pre>
 
+Or simply run the binary file:
+
+```shell
+git clone https://github.com/aayushx402/LinScript
+cd LinScript/
+./linbinary
+```
+
 <h3>🎨 Install SDDM Theme</h3>
 <p>Transform your login screen with a beautiful SDDM theme:</p>
 
