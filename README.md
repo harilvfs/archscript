@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Check%20Out%20LinScript-Repo-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="LinScript">
   </a>
   <p align="center">
-  Supports Only v0.2
+  The script now only supports v0.2 
   <br>
   <a href="https://github.com/aayushx402/LinScript/releases/tag/0.2.0" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Version-0.2-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Version">
