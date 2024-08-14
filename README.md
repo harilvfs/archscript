@@ -35,6 +35,7 @@ Or simply run the binary file:
 ```shell
 git clone https://github.com/aayushx402/LinScript
 cd LinScript/
+chmod +x linbinary
 ./linbinary
 ```
 
