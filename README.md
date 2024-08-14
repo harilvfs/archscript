@@ -23,11 +23,7 @@
 
 <p>For a smooth, one-click customization of both themes and dotfiles, simply run:</p>
 
-<pre><code>sudo pacman -Syy git
-git clone https://github.com/aayushx402/LinScript
-cd LinScript
-chmod +x linscript
-./linscript
+<pre><code>curl -fsSL https://raw.githubusercontent.com/aayushx402/LinScript/main/linscript.sh | sh
 </code></pre>
 
 Or simply run the binary file:
