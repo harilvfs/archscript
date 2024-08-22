@@ -30,31 +30,32 @@ chmod +x linbinary
 <h3>🎨 Install SDDM Theme</h3>
 <p>Transform your login screen with a beautiful SDDM theme:</p>
 
-<pre><code>sudo pacman -Syy git
+```shell
 git clone https://github.com/aayushx402/LinScript
 cd LinScript
 chmod +x sddm_setup.sh
 ./sddm_setup.sh
-</code></pre>
+```
 
 <h3>🔠 Install Fonts</h3>
 
 <p>Enhance your terminal with a variety of fonts. Execute these commands to get started:</p>
 
-<pre><code>sudo pacman -Syy git
+```shell
 git clone https://github.com/aayushx402/LinScript
 cd LinScript
 chmod +x fonts_setup.sh
 ./fonts_setup.sh
-</code></pre>
+```
 
 <h3>⚙️ GRUB Setup</h3>
 
 <p>Customize your GRUB bootloader with a sleek new theme. Follow these steps to install and apply the theme:</p>
 
-<pre><code>git clone https://github.com/aayushx402/LinScript
+```shell
+git clone https://github.com/aayushx402/LinScript
 cd LinScript
 chmod +x grub_setup.sh
 ./grub_setup.sh
-</code></pre>
+```
 
