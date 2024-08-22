@@ -13,12 +13,6 @@
 
 <p>Welcome to <strong>LinScript</strong> – your ultimate solution for a sleek and personalized Linux setup! With this script, you can effortlessly customize your themes, manage dotfiles, and enhance your desktop environment.</p>
 
-<h3>🚀 What’s New in Linux Project v0.2?</h3>
-<ul>
-    <li><strong>Enhanced Customization:</strong> Effortlessly personalize your themes and dotfiles with an improved setup process.</li>
-    <li><strong>Streamlined Installation:</strong> Simplified commands for quick and easy installation of SDDM themes and fonts.</li>
-</ul>
-
 <h3>🚀 Quick Setup</h3>
 
 <p>For a smooth, one-click customization of both themes and dotfiles, simply run:</p>
@@ -54,5 +48,15 @@ git clone https://github.com/aayushx402/LinScript
 cd LinScript
 chmod +x fonts_setup.sh
 ./fonts_setup.sh
+</code></pre>
+
+<h3>⚙️ GRUB Setup</h3>
+
+<p>Customize your GRUB bootloader with a sleek new theme. Follow these steps to install and apply the theme:</p>
+
+<pre><code>git clone https://github.com/aayushx402/LinScript
+cd LinScript
+chmod +x grub_setup.sh
+./grub_setup.sh
 </code></pre>
 
