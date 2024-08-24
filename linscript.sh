@@ -16,9 +16,9 @@ ENDCOLOR="\e[0m"
 # Header for SDDM Theme Setup
 echo -e "${BLUE}"
 cat <<"EOF"
-+-------------------------------------------------------+
-|  Setting up Catppuccin SDDM Theme                     |
-+-------------------------------------------------------+
+-------------------------------------------------------
+      Setting up Catppuccin SDDM Theme                     
+-------------------------------------------------------
 EOF
 echo -e "${ENDCOLOR}"
 
@@ -145,7 +145,10 @@ else
 fi
 
 # Heading: GRUB Setup
-
+echo -ne "
+-----------------------------------
+            GRUB SETUP
+-----------------------------------
 # Clone the repository
 echo "Cloning repository..."
 git clone https://github.com/aayushx402/i3-CatDotfiles
