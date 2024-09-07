@@ -6,11 +6,11 @@
  
 </div>
 
-<strong>Welcome to 'Linscript' – *your go-to tool for setting up fonts, SDDM themes, GRUB, and customizing your Linux setup easily!* </strong>
+<strong>Welcome to 'Linscript' – **your go-to tool for setting up fonts, SDDM themes, GRUB, and customizing your Linux setup easily!** </strong>
 
 <h3>🚀 Quick Setup</h3>
 
-<p>For a smooth, one-click customization of both themes and dotfiles, simply run:</p>
+<p>Simply run this on terminal</p>
 
 ```shell
 curl -fsSL https://raw.githubusercontent.com/aayushx402/LinScript/main/linscript.sh | sh
@@ -18,7 +18,7 @@ curl -fsSL https://raw.githubusercontent.com/aayushx402/LinScript/main/linscript
 
 <h3>🎨 Install SDDM Theme</h3>
 
-<strong>*Transform your login screen with a beautiful SDDM theme* </strong>
+<strong>**Transform your login screen with a beautiful SDDM theme** </strong>
 
 ```shell
 git clone https://github.com/aayushx402/LinScript
@@ -29,7 +29,7 @@ chmod +x sddm_setup.sh
 
 <h3>🔠 Install Fonts</h3>
 
-<strong>*Enhance your terminal with a variety of fonts. Execute these commands to get started* </strong>
+<strong>**Enhance your terminal with a variety of fonts. Execute these commands to get started** </strong>
 
 ```shell
 git clone https://github.com/aayushx402/LinScript
@@ -40,7 +40,7 @@ chmod +x fonts_setup.sh
 
 <h3>⚙️ GRUB Setup</h3>
 
-<strong>*Customize your GRUB bootloader with a sleek new theme. Follow these steps to install and apply the theme* </strong>
+<strong>**Customize your GRUB bootloader with a sleek new theme. Follow these steps to install and apply the theme** </strong>
 
 ```shell
 git clone https://github.com/aayushx402/LinScript
