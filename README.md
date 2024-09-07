@@ -10,7 +10,7 @@
 
 <h3>🚀 Quick Setup</h3>
 
-<p>Simply run this on terminal</p>
+<p>Just run this command in the terminal</p>
 
 ```shell
 curl -fsSL https://raw.githubusercontent.com/aayushx402/LinScript/main/linscript.sh | sh
