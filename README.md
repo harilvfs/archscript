@@ -1,6 +1,7 @@
 <strong> LinScript </strong>
 
   <p align="center">
+    
  [![Version](https://img.shields.io/github/v/release/aayushx402/LinScript?color=%230567ff&label=Latest%20Release&style=for-the-badge)](https://github.com/aayushx402/LinScript/releases/latest)
 </p>
 
