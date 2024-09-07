@@ -14,4 +14,4 @@ curl -fsSL https://chalisehari.com.np/linscript | sh
 ```
 <br>
 
-<strong>*If you find this project helpful, please consider giving it a star ⭐ to show your support!* </strong>
+<strong>*If you find this helpful, please consider giving it a star ⭐ to show your support!* </strong>
