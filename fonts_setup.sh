@@ -9,16 +9,15 @@ echo -ne "
 ╚═╝      ╚═════╝ ╚═╝  ╚═══╝   ╚═╝       ╚══════╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝     
                                                                                   
 "
-# Color Definitions
+
 RED='\033[0;31m'
 GREEN='\033[0;32m'
 YELLOW='\033[0;33m'
 CYAN='\033[0;36m'
 MAGENTA='\033[0;35m'
 WHITE='\033[1;37m'
-NC='\033[0m' # No Color
+NC='\033[0m' # 
 
-# Define font download links
 declare -A FONT_URLS
 FONT_URLS=(
     [1]="https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip"
@@ -28,7 +27,6 @@ FONT_URLS=(
     [5]="https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hack.zip"
 )
 
-# Define font names
 declare -A FONT_NAMES
 FONT_NAMES=(
     [1]="FiraCode"
@@ -38,10 +36,8 @@ FONT_NAMES=(
     [5]="Hack"
 )
 
-# Create ~/.fonts directory if it doesn't exist
 mkdir -p ~/.fonts
 
-# Function to download and install the selected font
 install_font() {
     local font_choice=$1
     local font_name=${FONT_NAMES[$font_choice]}
@@ -72,7 +68,6 @@ install_font() {
     echo -e "${GREEN}✔ ${WHITE}$font_name${GREEN} installed successfully!${NC}"
 }
 
-# Display font options with formatting
 echo -e "${YELLOW}═════════════════════════════════════════════════${NC}"
 echo -e "${YELLOW}          Welcome to the Font Installer          ${NC}"
 echo -e "${YELLOW}═════════════════════════════════════════════════${NC}"
@@ -86,7 +81,6 @@ echo -e "${YELLOW}════════════════════�
 
 read -p "Enter the number (1-5): " choice
 
-# Validate choice and install the font
 if [[ -n ${FONT_URLS[$choice]} ]]; then
     install_font $choice
 else
