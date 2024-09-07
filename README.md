@@ -1,12 +1,12 @@
 <div align="center">
 
-<h1><strong> **LinScript** </strong></h1>
+<strong> **Linscript** </strong>
 
 [![Version](https://img.shields.io/github/v/release/aayushx402/LinScript?color=%4CAF50&label=Latest%20Release&style=for-the-badge)](https://github.com/aayushx402/LinScript/releases/latest)
  
 </div>
 
-<p>Welcome to <strong>LinScript</strong> – your ultimate solution for a sleek and personalized Linux setup! With this script, you can effortlessly customize your themes, manage dotfiles, and enhance your desktop environment.</p>
+## Welcome to <strong>LinScript</strong> – *your go-to tool for setting up fonts, SDDM themes, GRUB, and customizing your Linux setup easily!*
 
 <h3>🚀 Quick Setup</h3>
 
