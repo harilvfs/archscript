@@ -1,12 +1,7 @@
-## 🌟 LinScript
+<strong> LinScript </strong>
 
-<p align="center">
-  <a href="https://github.com/aayushx402/LinScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Check%20Out%20LinScript-Repo-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="LinScript">
-  </a>
   <p align="center">
-  <a href="https://github.com/aayushx402/LinScript/releases/tag/0.3.0" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Version-0.3-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Version">
+ [![Version](https://img.shields.io/github/v/release/aayushx402/LinScript?color=%230567ff&label=Latest%20Release&style=for-the-badge)](https://github.com/aayushx402/LinScript/releases/latest)
 </p>
 
 <p>Welcome to <strong>LinScript</strong> – your ultimate solution for a sleek and personalized Linux setup! With this script, you can effortlessly customize your themes, manage dotfiles, and enhance your desktop environment.</p>
