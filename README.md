@@ -6,7 +6,7 @@
  
 </div>
 
-## Welcome to <strong>LinScript</strong> – *your go-to tool for setting up fonts, SDDM themes, GRUB, and customizing your Linux setup easily!*
+<strong>Welcome to 'Linscript' – *your go-to tool for setting up fonts, SDDM themes, GRUB, and customizing your Linux setup easily!* </strong>
 
 <h3>🚀 Quick Setup</h3>
 
