@@ -18,7 +18,7 @@ curl -fsSL https://raw.githubusercontent.com/aayushx402/LinScript/main/linscript
 
 <h3>🎨 Install SDDM Theme</h3>
 
-<storng>*Transform your login screen with a beautiful SDDM theme* </strong>
+<strong>*Transform your login screen with a beautiful SDDM theme* </strong>
 
 ```shell
 git clone https://github.com/aayushx402/LinScript
