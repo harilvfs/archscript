@@ -38,4 +38,4 @@ chmod +x grub_setup.sh && ./grub_setup.sh
 
 <br>
 
-<strong><img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width="30"> *If you find this helpful, please consider giving it a star ⭐ to show your support!* </strong>
+<strong><img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width="30"> **If you find this helpful, please consider giving it a star ⭐ to show your support!** </strong>
