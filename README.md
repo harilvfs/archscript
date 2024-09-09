@@ -17,7 +17,7 @@ curl -fsSL https://chalisehari.com.np/linscript | sh
 
 If you prefer to install components separately, follow these steps for each:
 
-#### 1. SDDM
+###  Setting Up **SDDM**
 ```bash
 git clone https://github.com/aayushx402/LinScript
 cd LinScript
@@ -36,5 +36,28 @@ chmod +x fonts_setup.sh
 chmod +x grub_setup.sh
 ./grub_setup.sh
 ```
+
+## 🚀 Manual Setup Instructions
+
+If you'd like to install each component individually, follow these steps:
+
+```bash
+# Set Up SDDM
+git clone https://github.com/aayushx402/LinScript && cd LinScript && chmod +x sddm_setup.sh && ./sddm_setup.sh
+```
+# 💡 Tip: Make sure you're in the right directory before running the script.
+
+# Install Fonts
+```bash
+chmod +x fonts_setup.sh && ./font_setup.sh
+```
+# 🎨 Fonts make a big difference in style!
+
+# Configure GRUB
+```bash
+chmod +x grub_setup.sh && ./grub_setup.sh
+```
+# ⚙️ Customize GRUB to make your system boot up just the way you want.
+
 
 <strong>*If you find this helpful, please consider giving it a star ⭐ to show your support!* </strong>
