@@ -37,7 +37,7 @@ chmod +x grub_setup.sh
 ./grub_setup.sh
 ```
 
-## 🚀 Manual Setup Instructions
+## 📎 Manual Setup Instructions
 
 If you'd like to install each component individually, follow these steps:
 
@@ -61,4 +61,4 @@ chmod +x grub_setup.sh && ./grub_setup.sh
 *⚙️ Customize GRUB to make your system boot up just the way you want.*
 
 
-<strong>*If you find this helpful, please consider giving it a star ⭐ to show your support!* </strong>
+<strong>**If you find this helpful, please consider giving it a star ⭐ to show your support!** </strong>
