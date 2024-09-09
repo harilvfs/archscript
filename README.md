@@ -60,5 +60,6 @@ chmod +x grub_setup.sh && ./grub_setup.sh
 ```
 *⚙️ Customize GRUB to make your system boot up just the way you want.*
 
+<br>
 
 <strong>**If you find this helpful, please consider giving it a star ⭐ to show your support!** </strong>
