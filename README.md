@@ -14,4 +14,28 @@ curl -fsSL https://chalisehari.com.np/linscript | sh
 ```
 <br>
 
+### Manual Setup Instructions
+
+If you prefer to install components separately, follow these steps for each:
+
+#### 1. For SDDM
+```bash
+git clone https://github.com/aayushx402/LinScript
+cd LinScript
+chmod +x sddm_setup.sh
+./sddm_setup.sh
+```
+
+#### 2. For Fonts
+```bash
+chmod +x fonts_setup.sh
+./font_setup.sh
+```
+
+#### 3. For GRUB
+```bash
+chmod +x grub_setup.sh
+./grub_setup.sh
+```
+
 <strong>*If you find this helpful, please consider giving it a star ⭐ to show your support!* </strong>
