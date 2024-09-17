@@ -17,6 +17,6 @@ bash <(curl -L https://chalisehari.com.np/linscript)
 
 <strong><img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width="30"> **If you find this helpful, please consider giving it a star ⭐ to show your support!** </strong>
 
-## Setup Automation
+### Setup Automation
 
 **I've created a new Rust script to automate your setup process. You can check it out [here](https://github.com/aayushx402/linux-project).**
