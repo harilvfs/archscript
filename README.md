@@ -13,6 +13,3 @@
 bash <(curl -L https://chalisehari.com.np/linscript)
 ```
 
-<br>
-
- **💠 If you find this helpful, please consider giving it a star ⭐ to show your support!** </strong>
