@@ -13,29 +13,8 @@
 bash <(curl -L https://chalisehari.com.np/linscript)
 ```
 
-## 📎 Manual Setup Instructions
-
-If you'd like to install each component individually, follow these steps:
-
-#### 1. Setting Up **SDDM**
-```bash
-# Set Up SDDM
-git clone https://github.com/aayushx402/LinScript && cd LinScript && chmod +x sddm_setup.sh && ./sddm_setup.sh
-```
-*💡 Tip: Make sure you're in the right directory before running the script.*
-
-#### 2. Install Fonts
-```bash
-chmod +x fonts_setup.sh && ./font_setup.sh
-```
-*🎨 Fonts make a big difference in style!* 
-
-#### 3. Configure GRUB
-```bash
-chmod +x grub_setup.sh && ./grub_setup.sh
-```
-*⚙️ Customize GRUB to make your system boot up just the way you want.*
-
 <br>
 
 <strong><img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width="30"> **If you find this helpful, please consider giving it a star ⭐ to show your support!** </strong>
+
+**I've created a new Rust script to automate your setup process. You can check it out [here](https://github.com/aayushx402/linux-project).**
