@@ -1,15 +1,12 @@
 #!/bin/bash
 
-# Clear the terminal
 clear
 
-# Define colors for output
 RED="\e[31m"
 GREEN="\e[32m"
 BLUE="\e[34m"
 ENDCOLOR="\e[0m"
 
-# Header display
 echo -e "${BLUE}"
 cat <<"EOF"
 
@@ -24,7 +21,6 @@ cat <<"EOF"
 EOF
 echo -e "${ENDCOLOR}"
 
-# Function to install SDDM and apply Catppuccin theme
 sddm_setup() {
     echo "Proceeding with SDDM installation..."
     if ! command -v sddm &> /dev/null; then
@@ -60,7 +56,6 @@ EOF'
     echo -e "${GREEN}Setup complete. Please reboot your system to see the changes.${ENDCOLOR}"
 }
 
-# Function to install fonts
 font_setup() {
     echo "Proceeding with font installation..."
 
@@ -98,7 +93,6 @@ font_setup() {
         echo -e "${GREEN}$font_name installed successfully!${ENDCOLOR}"
     }
 
-    # Display font options with a skip option
     echo -e "${CYAN}Please select a font to install or press 6 to Skip:${NC}"
     echo -e " 1. FiraCode Nerd Font"
     echo -e " 2. FiraMono Nerd Font"
@@ -112,17 +106,16 @@ font_setup() {
 
         if [[ $choice -eq 6 ]]; then
             echo -e "${YELLOW}Skipping font installation and returning to the main menu...${ENDCOLOR}"
-            break  # Exit the font_setup function and return to the main menu
+            break 
         elif [[ -n ${FONT_URLS[$choice]} ]]; then
             install_font $choice
-            break  # After installation, return to the main menu
+            break 
         else
             echo -e "${RED}Invalid choice. Please select a valid option (1-6).${ENDCOLOR}"
         fi
     done
 }
 
-# Function to set up GRUB theme
 grub_setup() {
     echo "Cloning repository..."
     git clone https://github.com/aayushx402/i3-CatDotfiles
@@ -145,7 +138,6 @@ grub_setup() {
     echo "GRUB setup completed successfully!"
 }
 
-# Arrow key menu for selecting tasks
 PS3="Select a setup option from the menu: "
 options=("SDDM Setup" "Font Setup" "GRUB Setup" "Exit")
 
