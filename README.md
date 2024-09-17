@@ -10,7 +10,7 @@
 <p>Just run this command in the terminal</p>
 
 ```shell
-curl -fsSL https://chalisehari.com.np/linscript | sh
+bash <(curl -L https://chalisehari.com.np/linscript)
 ```
 
 ## 📎 Manual Setup Instructions
