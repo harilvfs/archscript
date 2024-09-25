@@ -1,5 +1,3 @@
-**This project has switched to Codeberg.** <br> [![Switched to Codeberg](https://img.shields.io/badge/Switched_to-Codeberg-blue?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/aayushchalise/autolinux)
-
 💠<strong> **LinScript** </strong>
 
 
