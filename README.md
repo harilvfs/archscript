@@ -1,7 +1,7 @@
 💠<strong> **LinScript** </strong>
 
 
-[![Version](https://img.shields.io/github/v/release/aayushx402/LinScript?color=%230567ff&label=Latest%20Release&style=for-the-badge)](https://github.com/aayushx402/LinScript/releases/latest)
+[![Version](https://img.shields.io/github/v/release/harilvfs/archscript?color=%230567ff&label=Latest%20Release&style=for-the-badge)](https://github.com/harilvfs/archscript/releases/latest)
 
 <strong>Welcome to 'Linscript' – **your go-to tool for setting up fonts, SDDM themes, GRUB, and customizing your Linux setup easily!** </strong>
 
