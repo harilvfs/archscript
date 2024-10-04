@@ -118,8 +118,8 @@ font_setup() {
 
 grub_setup() {
     echo "Cloning repository..."
-    git clone https://github.com/aayushx402/i3-CatDotfiles
-    cd i3-CatDotfiles/grub
+    git clone https://github.com/harilvfs/i3wmdotfiles
+    cd i3wmdotfiles/grub
 
     echo "Copying GRUB theme..."
     sudo cp -r CyberRe /usr/share/grub/themes
